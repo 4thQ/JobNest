@@ -50,7 +50,7 @@ npm run dev
 - **Edit/Delete**: Manage your applications with easy-to-use edit and delete functions
 
 ## Technology Stack
-
+- HTML
 - React
 - Vite
 - Material-UI
